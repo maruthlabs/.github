@@ -1,6 +1,6 @@
-<h1>Welcome to Maruth Labs &#128075;&#128075;</h1>
+<h1>Welcome to MaruthLabs &#128075;&#128075;</h1>
 <section>
-    Maruth Labs [formerly jobSphere Tech] is an AI research company focused on developing efficient, scalable, and cutting-edge solutions for real-world challenges. We specialize in creating mobile-friendly large language models (LLMs) that deliver high performance with reduced computational needs, making AI more accessible and cost-effective.
+    Maruth Labs is an AI research labs focused on developing efficient, and scalable general-purpose AI. We primary focus is towards creating extremely compact language models for agentic workflows that also excel in edge devices such as mobile phones and microcontrollers.
 
-Our flagship project, "Madhuram" is designed to transform LLM capabilities and provide consistent results across all devices. At Maruth Labs, we are committed to driving AI innovation while ensuring practical, resource-efficient applications across industries.
+Our flagship model, "Madhuram" is designed to transform capabilities and provide consistent results across all devices. At MaruthLabs, we are committed to driving AI innovation while ensuring practical, resource-efficient applications across industries. Try out the model on our website by clicking <a href="https://chat.maruthlabs.com>here</a> and read more about our model and its performance on our <a href="https://www.maruthlabs.com>website</a>.
 </section>
